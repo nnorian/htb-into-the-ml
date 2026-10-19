@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 __MACOSX/
 venv/
+*.npz
+*.joblib
+data/MNIST/
